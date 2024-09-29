@@ -16,7 +16,7 @@ The data used in this analysis includes information about schools and students, 
 
 ## Analysis
 
-Assignment summary analysis is available on the python-challenge Summary file
+Assignment summary analysis is available on the python-challenge Summary file  
 The analysis is divided into several sections:
 
 ### District Summary
