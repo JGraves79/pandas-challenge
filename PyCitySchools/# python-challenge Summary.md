@@ -1,4 +1,4 @@
-# python-challenge Summary
+python-challenge Summary
 
 ## Overall Summary
 
