@@ -58,9 +58,10 @@ To run this analysis, you will need the following Python packages:
 
 ## Installation
 
-git clone https://github.com/JGraves79/pandas-challenge.git
-cd pandas-challenge
-Open the `PyCitySchools_assignment.ipynb` Jupyter Notebook.
+git clone https://github.com/JGraves79/pandas-challenge.git  
+cd pandas-challenge  
+cd PyCitySchools  
+Open the `PyCitySchools_assignment.ipynb` Jupyter Notebook.  
 Run the cells to perform the analysis.
 
 ## Results
